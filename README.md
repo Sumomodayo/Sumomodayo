@@ -1,4 +1,5 @@
 # ​ Hi, I'm Sumomo
+<img width="1200" height="630" alt="ee19f0c1c641eb32eb653418ea06e76d" src="https://github.com/user-attachments/assets/ee7d99b1-ea31-40ee-9012-2dc4acf9b574" />
 
 ## ​ About 
 無能dev
