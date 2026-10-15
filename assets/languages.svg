@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="288">
 <rect x="20" y="20" width="860" height="14" rx="7" ry="7" fill="#21262d"/>
-<rect x="20" y="20" width="446.57585178654926" height="14" fill="#A97BFF"/>
-<rect x="466.57585178654926" y="20" width="366.164843217555" height="14" fill="#b07219"/>
-<rect x="832.7406950041043" y="20" width="32.627218941506044" height="14" fill="#8b949e"/>
-<rect x="865.3679139456103" y="20" width="8.841284975756384" height="14" fill="#3572A5"/>
-<rect x="874.2091989213667" y="20" width="2.497628020839312" height="14" fill="#701516"/>
-<rect x="876.706826942206" y="20" width="3.29317305779404" height="14" fill="#8b949e"/>
+<rect x="20" y="20" width="446.79435736334545" height="14" fill="#A97BFF"/>
+<rect x="466.79435736334545" y="20" width="365.9469962178068" height="14" fill="#b07219"/>
+<rect x="832.7413535811522" y="20" width="32.64318314840517" height="14" fill="#8b949e"/>
+<rect x="865.3845367295573" y="20" width="8.845610937551049" height="14" fill="#3572A5"/>
+<rect x="874.2301476671084" y="20" width="2.498850087928549" height="14" fill="#701516"/>
+<rect x="876.728997755037" y="20" width="3.271002244962883" height="14" fill="#8b949e"/>
 <circle cx="30" cy="61" r="6" fill="#A97BFF"/>
-<text x="45" y="65" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Kotlin 51.93%</text>
+<text x="45" y="65" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Kotlin 51.95%</text>
 <circle cx="30" cy="89" r="6" fill="#b07219"/>
-<text x="45" y="93" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Java 42.58%</text>
+<text x="45" y="93" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Java 42.55%</text>
 <circle cx="30" cy="117" r="6" fill="#8b949e"/>
-<text x="45" y="121" fill="#c9d1d9" font-size="14" font-family="Segoe UI">GLSL 3.79%</text>
+<text x="45" y="121" fill="#c9d1d9" font-size="14" font-family="Segoe UI">GLSL 3.80%</text>
 <circle cx="30" cy="145" r="6" fill="#3572A5"/>
 <text x="45" y="149" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Python 1.03%</text>
 <circle cx="30" cy="173" r="6" fill="#701516"/>
