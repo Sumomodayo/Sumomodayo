@@ -2,6 +2,8 @@
 <img width="1200" height="630" alt="ee19f0c1c641eb32eb653418ea06e76d" src="https://github.com/user-attachments/assets/ee7d99b1-ea31-40ee-9012-2dc4acf9b574" />
 
 ## ​ About 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1237734472619659318?theme=dark&bg=1A1C1F&borderRadius=10px&hideStatus=true&hideActivity=true&hideDiscrim=true)](https://discord.com/users/1237734472619659318)
+
 無能dev
 
 Visual Studio Codeの予測変換が優秀すぎて感動しました。
