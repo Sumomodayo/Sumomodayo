@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="288">
 <rect x="20" y="20" width="860" height="14" rx="7" ry="7" fill="#21262d"/>
-<rect x="20" y="20" width="408.07764103852037" height="14" fill="#A97BFF"/>
-<rect x="428.07764103852037" y="20" width="406.6993015838486" height="14" fill="#b07219"/>
-<rect x="834.776942622369" y="20" width="30.311030803658774" height="14" fill="#8b949e"/>
-<rect x="865.0879734260278" y="20" width="9.260370604498597" height="14" fill="#3572A5"/>
-<rect x="874.3483440305264" y="20" width="2.282313624568703" height="14" fill="#701516"/>
-<rect x="876.6306576550951" y="20" width="3.36934234490496" height="14" fill="#8b949e"/>
-<circle cx="30" cy="61" r="6" fill="#A97BFF"/>
-<text x="45" y="65" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Kotlin 47.45%</text>
-<circle cx="30" cy="89" r="6" fill="#b07219"/>
-<text x="45" y="93" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Java 47.29%</text>
+<rect x="20" y="20" width="409.36376042612994" height="14" fill="#b07219"/>
+<rect x="429.36376042612994" y="20" width="405.6789990712755" height="14" fill="#A97BFF"/>
+<rect x="835.0427594974054" y="20" width="30.132865417358552" height="14" fill="#8b949e"/>
+<rect x="865.175624914764" y="20" width="9.205939017637666" height="14" fill="#3572A5"/>
+<rect x="874.3815639324016" y="20" width="2.2688983998865244" height="14" fill="#701516"/>
+<rect x="876.6504623322882" y="20" width="3.3495376677118234" height="14" fill="#8b949e"/>
+<circle cx="30" cy="61" r="6" fill="#b07219"/>
+<text x="45" y="65" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Java 47.60%</text>
+<circle cx="30" cy="89" r="6" fill="#A97BFF"/>
+<text x="45" y="93" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Kotlin 47.17%</text>
 <circle cx="30" cy="117" r="6" fill="#8b949e"/>
-<text x="45" y="121" fill="#c9d1d9" font-size="14" font-family="Segoe UI">GLSL 3.52%</text>
+<text x="45" y="121" fill="#c9d1d9" font-size="14" font-family="Segoe UI">GLSL 3.50%</text>
 <circle cx="30" cy="145" r="6" fill="#3572A5"/>
-<text x="45" y="149" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Python 1.08%</text>
+<text x="45" y="149" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Python 1.07%</text>
 <circle cx="30" cy="173" r="6" fill="#701516"/>
-<text x="45" y="177" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Ruby 0.27%</text>
+<text x="45" y="177" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Ruby 0.26%</text>
 <circle cx="30" cy="201" r="6" fill="#8b949e"/>
 <text x="45" y="205" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Other 0.39%</text>
 </svg>
