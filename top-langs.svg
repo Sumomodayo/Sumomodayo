@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="231.87"
+          width="220.15"
           height="8"
           fill="#3572A5"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="231.87"
+          x="220.15"
           y="0"
-          width="13.94"
+          width="13.23"
           height="8"
           fill="#f34b7d"
         />
@@ -148,9 +148,19 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="245.81"
+          x="233.38"
           y="0"
-          width="14.190000000000001"
+          width="12.65"
+          height="8"
+          fill="#b07219"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="246.03"
+          y="0"
+          width="13.98"
           height="8"
           fill="#C1F12E"
         />
@@ -161,21 +171,28 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 92.75%
+        Python 88.06%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 5.57%
+        C++ 5.29%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#b07219" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Java 5.06%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#C1F12E" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Batchfile 1.68%
+        Batchfile 1.59%
       </text>
     </g>
   </g></g>
