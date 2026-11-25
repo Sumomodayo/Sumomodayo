@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="288">
 <rect x="20" y="20" width="860" height="14" rx="7" ry="7" fill="#21262d"/>
-<rect x="20" y="20" width="557.1233140990421" height="14" fill="#b07219"/>
-<rect x="577.1233140990421" y="20" width="257.9113772365768" height="14" fill="#A97BFF"/>
-<rect x="835.0346913356188" y="20" width="19.475092794474843" height="14" fill="#8b949e"/>
-<rect x="854.5097841300936" y="20" width="14.007527975079121" height="14" fill="#3572A5"/>
-<rect x="868.5173121051728" y="20" width="3.2457953474727335" height="14" fill="#563d7c"/>
-<rect x="871.7631074526455" y="20" width="8.236892547354394" height="14" fill="#8b949e"/>
+<rect x="20" y="20" width="728.4017752144285" height="14" fill="#b07219"/>
+<rect x="748.4017752144285" y="20" width="102.76256302101088" height="14" fill="#A97BFF"/>
+<rect x="851.1643382354395" y="20" width="15.344215300274895" height="14" fill="#3572A5"/>
+<rect x="866.5085535357143" y="20" width="8.61298324667183" height="14" fill="#8b949e"/>
+<rect x="875.1215367823861" y="20" width="1.5506304174960508" height="14" fill="#563d7c"/>
+<rect x="876.6721671998821" y="20" width="3.327832800117875" height="14" fill="#8b949e"/>
 <circle cx="30" cy="61" r="6" fill="#b07219"/>
-<text x="45" y="65" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Java 64.78%</text>
+<text x="45" y="65" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Java 84.70%</text>
 <circle cx="30" cy="89" r="6" fill="#A97BFF"/>
-<text x="45" y="93" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Kotlin 29.99%</text>
-<circle cx="30" cy="117" r="6" fill="#8b949e"/>
-<text x="45" y="121" fill="#c9d1d9" font-size="14" font-family="Segoe UI">GLSL 2.26%</text>
-<circle cx="30" cy="145" r="6" fill="#3572A5"/>
-<text x="45" y="149" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Python 1.63%</text>
+<text x="45" y="93" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Kotlin 11.95%</text>
+<circle cx="30" cy="117" r="6" fill="#3572A5"/>
+<text x="45" y="121" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Python 1.78%</text>
+<circle cx="30" cy="145" r="6" fill="#8b949e"/>
+<text x="45" y="149" fill="#c9d1d9" font-size="14" font-family="Segoe UI">GLSL 1.00%</text>
 <circle cx="30" cy="173" r="6" fill="#563d7c"/>
-<text x="45" y="177" fill="#c9d1d9" font-size="14" font-family="Segoe UI">CSS 0.38%</text>
+<text x="45" y="177" fill="#c9d1d9" font-size="14" font-family="Segoe UI">CSS 0.18%</text>
 <circle cx="30" cy="201" r="6" fill="#8b949e"/>
-<text x="45" y="205" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Other 0.96%</text>
+<text x="45" y="205" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Other 0.39%</text>
 </svg>
